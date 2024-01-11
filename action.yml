@@ -1,5 +1,5 @@
-name: "Create GitHub App Token"
-description: "GitHub Action for creating a GitHub App installation access token"
+name: "Create GitHub App Token GHES"
+description: "GitHub Action for creating a GitHub App installation access token for GHES"
 author: "Gregor Martynus and Parker Brown"
 branding:
   icon: "lock"
