@@ -36,6 +36,6 @@ outputs:
   token:
     description: "GitHub installation access token"
 runs:
-  using: "node20"
+  using: "node16"
   main: "dist/main.cjs"
   post: "dist/post.cjs"
